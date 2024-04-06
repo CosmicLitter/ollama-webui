@@ -32,7 +32,7 @@
 				<span class="grow truncate text-left font-semibold"> New Chat </span>
 				<Icons.newChat class="mx-2 h-5" />
 			</button>
-			<div class="mt-auto flex items-center py-4">
+			<div class="mt-auto flex min-w-72 items-center py-4">
 				<Icons.user class="mx-4 " />
 				<span>User authentication module coming soon.</span>
 			</div>
